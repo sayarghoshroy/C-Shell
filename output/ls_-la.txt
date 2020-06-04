@@ -1,0 +1,10 @@
+total 112
+drwxrwxr-x  3 tintin tintin  4096 Sep 27 19:19 .
+drwxrwxr-x 10 tintin tintin  4096 Sep 27 18:37 ..
+drwxrwxr-x  8 tintin tintin  4096 Sep 24 20:30 .git
+-rw-r--r--  1 tintin tintin     0 Sep 27 19:19 hi.txt
+-rw-rw-r--  1 tintin tintin    43 Sep  4 16:44 Makefile
+-rw-rw-r--  1 tintin tintin   191 Sep  4 16:47 readme.txt
+-rwxrwxr-x  1 tintin tintin 41928 Sep 27 18:30 shell
+-rw-rw-r--  1 tintin tintin 33443 Sep 27 18:30 shell.c
+-rw-------  1 tintin tintin 12288 Sep  1 00:47 .swp
