@@ -65,9 +65,9 @@ make shell
 
 - 'quit' to exit the shell.
 
-- <p align="justify"><kbd>ctrl</kbd> + <kbd>z</kbd> changes the status of currently running job to 'stopped' and makes it a background process.</p>
+- <p align="justify"><kbd>ctrl</kbd> + <kbd>Z</kbd> changes the status of currently running job to 'stopped' and makes it a background process.</p>
 
-- <kbd>ctrl</kbd> + <kbd>z</kbd> sends a SIGINT signal to the current foreground job.
+- <kbd>ctrl</kbd> + <kbd>C</kbd> sends a SIGINT signal to the current foreground job.
 
 ## Implementation
 
